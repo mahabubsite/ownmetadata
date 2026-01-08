@@ -1,0 +1,5 @@
+{
+  "name": "StockGenius AI",
+  "description": "Auto-generate SEO-optimized metadata for stock photography and vectors using Gemini AI.",
+  "requestFramePermissions": []
+}
